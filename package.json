@@ -1,0 +1,40 @@
+{
+  "name": "has-self-equality",
+  "version": "0.0.1",
+  "description": "Check if a value has self equality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/has-self-equality.git"
+  },
+  "keywords": [
+    "selfequality",
+    "numbers",
+    "equal",
+    "plugin",
+    "framework",
+    "jquery",
+    "equal",
+    "equality",
+    "NaN",
+    "true",
+    "false",
+    "boolean",
+    "port",
+    "javascript",
+    "usefull"
+  ],
+  "author": "tj-commits/87f-",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tj-commits/has-self-equality/issues"
+  },
+  "homepage": "https://github.com/tj-commits/has-self-equality#readme",
+  "dependencies": {
+    "none": "^1.0.0",
+    "vanilla-javascript": "^1.1.1"
+  }
+}
