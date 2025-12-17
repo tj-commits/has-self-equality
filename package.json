@@ -1,6 +1,6 @@
 {
   "name": "has-self-equality",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Check if a value has self equality",
   "main": "index.js",
   "scripts": {
